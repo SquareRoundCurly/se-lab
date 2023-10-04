@@ -5,7 +5,6 @@ package hu.bme.mit.spaceship;
 * (collects just the most important ones currently)
 */
 public interface SpaceShip {
-
   /**
   * Fires the laser or lasers of the ship
   *
